@@ -1,2 +1,1 @@
-I am doing a recipie project to improve my html skills I dont know much about
-the project but I am following odin projects guide 
+I am doing a recipie project nothing much currently will add more features and options after learning css and javascript
